@@ -1,5 +1,3 @@
-Required tools 
-
-streamlit ---- for dashboards
-pandas     -- for analysis and cleaning
-matplotlib  --- for graphs and caluculations
+streamlit
+pandas
+matplotlib
