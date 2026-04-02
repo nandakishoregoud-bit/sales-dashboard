@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-from openai import OpenAI
+#from openai import OpenAI
 
-client = OpenAI()
+#client = OpenAI()
 
 ###### client = OpenAI(api key = "api-key value")
 
